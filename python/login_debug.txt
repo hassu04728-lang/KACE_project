@@ -1,0 +1,25 @@
+브라우저 시작
+접속 URL: https://ksso.korea.ac.kr/svc/tk/Auth.do?id=lms&ac=Y&ifa=N&RelayState=https%3A%2F%2Flms.korea.ac.kr%2Fxn-sso%2Fgw-cb.php%3Ffrom%3D%26site%3D%26login_type%3Dstandalone%26return_url%3Dhttps%253A%252F%252Flms.korea.ac.kr%252Flogin%252Fcallback&
+
+============================================================
+현재 frame에서 input 탐색
+URL: https://ksso.korea.ac.kr/svc/tk/Auth.do?id=lms&ac=Y&ifa=N&RelayState=https%3A%2F%2Flms.korea.ac.kr%2Fxn-sso%2Fgw-cb.php%3Ffrom%3D%26site%3D%26login_type%3Dstandalone%26return_url%3Dhttps%253A%252F%252Flms.korea.ac.kr%252Flogin%252Fcallback&
+TITLE: Korea University SAML Login
+input 개수: 6
+1. type=hidden, id=l_token, name=l_token, placeholder=, class=None, displayed=False, enabled=True
+2. type=hidden, id=user_timezone_offset, name=user_timezone_offset, placeholder=, class=None, displayed=False, enabled=True
+3. type=hidden, id=c_token, name=c_token, placeholder=, class=None, displayed=False, enabled=True
+4. type=hidden, id=user_id, name=user_id, placeholder=, class=None, displayed=False, enabled=True
+5. type=text, id=one_id, name=one_id, placeholder=Portal ID, class=form-control, displayed=True, enabled=True
+6. type=password, id=password, name=user_password, placeholder=Portal Password, class=form-control, displayed=True, enabled=True
+아이디 입력 성공
+비밀번호 입력 성공
+form 내부 로그인 버튼 클릭 성공
+로그인 후 LMS 이동 확인: https://ksso.korea.ac.kr/svc/tk/Auth.do?id=lms&ac=Y&ifa=N&RelayState=https%3A%2F%2Flms.korea.ac.kr%2Fxn-sso%2Fgw-cb.php%3Ffrom%3D%26site%3D%26login_type%3Dstandalone%26return_url%3Dhttps%253A%252F%252Flms.korea.ac.kr%252Flogin%252Fcallback&
+공지사항 페이지 이동
+'전체 게시물 보기' 추정 버튼 클릭
+공지사항 20개 추출
+캘린더 페이지 이동
+캘린더 피드 버튼 클릭 성공: 캘린더 피드 dialog_opener Button Button--link
+ICS URL 추출 성공: https://mylms.korea.ac.kr/feeds/calendars/user_N9XTtWBOUVAuq1FTuDidTD6LjNYcIkF6gHwNHAAi.ics
+캘린더 일정 17개 추출
